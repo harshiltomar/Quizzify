@@ -21,7 +21,9 @@
   title : string
   choices: strings[]
   image?: string
+
 - Leaderboard view -
   winners: {username: string, profilePicture?: string, points: number}[] => will be sorted
+
 - Join the course view -
   Stack - React components using tailwind
